@@ -40,6 +40,3 @@
 <!-- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoticoAgricola&layout=compact&hide_border=true&title_color=8A2BE2&text_color=ff91a4&bg_color=0d1117" />
 </div> -->
 
-          A ideia de ter um mascote foi amadurecendo e a missão foi passada para uma profissional da área.
-         A ilustradora Russa <a href="https://www.irinablok.com/" target="_blank">Irina Blok</a>, também funcionária do Google, ficou com a missão de representar o
-         pequeno robô de uma maneira mais agradável.
