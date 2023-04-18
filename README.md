@@ -27,6 +27,8 @@
 
   ##
  <div> 
+   <a href="https://twitter.com/GoticoAgricola" target="_blank">Perfil do Twitter do Gótico Agrícola</a>
+
    
 
 <a href='https://twitter.com/GoticoAgricola' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=Twitter&logoColor=FFFFFF&labelColor=050505&color=black'/></a>
