@@ -14,6 +14,7 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="FaeL-Linux" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 <img align="center" alt="FaeL-Fedora" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" />
+<img align="center" alt="FaeL-Manjaro" height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg">
 <img align="center" alt="FaeL-Ubuntu" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <img align="center" alt="FaeL-Android" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
 <img align="center" alt="FaeL-Windows" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
