@@ -10,8 +10,10 @@
 <img align="center" alt="FaeL-GitHub" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="center" alt="FaeL-AdobeIllustrator" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
 <img align="center" alt="FaeL-AdobePhotoshop" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-<img align="center" alt="FaeL-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-<img align="center" alt="FaeL-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+<div>
+<div style="display: inline_block"><br>
+<img align="center" alt="FaeL-Linux" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+<img align="center" alt="FaeL-Windows" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 <div> 
   
   ##
