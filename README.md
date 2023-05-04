@@ -1,5 +1,5 @@
 
-**Aprendendo (Linguagens, Ferramentas, Plataformas e SO)** <!--'#' deixa a letra maior, '*' deixa em negrito-->
+**Aprendendo ( Linguagens, Ferramentas, Plataformas e SO )** 
 
 <div style="display: inline_block"><br> 
 <img align="center" alt="FaeL-HTML" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -13,6 +13,9 @@
 <div>
 <div style="display: inline_block"><br>
 <img align="center" alt="FaeL-Linux" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+<img align="center" alt="FaeL-Fedora" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" />
+<img align="center" alt="FaeL-Ubuntu" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+<img align="center" alt="FaeL-Android" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
 <img align="center" alt="FaeL-Windows" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 <div> 
   
