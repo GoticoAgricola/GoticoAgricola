@@ -1,4 +1,4 @@
-<a href='https://github.com/faelfinger' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/GitHub(Main_account)-100000?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black&color=black'/></a>
+<!-- <a href='https://github.com/faelfinger' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/GitHub(Main_account)-100000?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black&color=black'/></a> -->
 ##
 **Aprendendo ( Linguagens, Ferramentas, Plataformas e SO )** 
 
