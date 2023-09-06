@@ -5,7 +5,6 @@
 
 
 
-<img  alt="FaeL-Windows" height="25" width="40" src="">
-  
+
 
 
