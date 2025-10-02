@@ -5,6 +5,7 @@
 <img alt="FaeL-ArchLinux" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg">
 <img alt="FaeL-Hyprland" height="20" width="30" src="http://www.w3.org/2000/svg">
 
+http://www.w3.org/2000/svg
 
 
 
