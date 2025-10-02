@@ -3,22 +3,6 @@
 
 
 <img alt="FaeL-ArchLinux" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg">
-<img alt="FaeL-Hyprland" height="20" width="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-shadow-tal-revivo.png">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
